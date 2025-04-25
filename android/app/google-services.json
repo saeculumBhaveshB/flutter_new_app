@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231829438322",
+    "project_id": "nokasa-user",
+    "storage_bucket": "nokasa-user.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231829438322:android:c26028190b73d2fcc027eb",
+        "android_client_info": {
+          "package_name": "co.nokasa.user.nokasa_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXmH8sWSe5gfwe4KXjCBTLCaFghFRsIe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

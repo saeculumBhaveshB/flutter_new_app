@@ -1,0 +1,2 @@
+/Users/prince/user_app/android/app/.cxx/RelWithDebInfo/1k463e6z/x86_64/CMakeFiles/edit_cache.dir
+/Users/prince/user_app/android/app/.cxx/RelWithDebInfo/1k463e6z/x86_64/CMakeFiles/rebuild_cache.dir
