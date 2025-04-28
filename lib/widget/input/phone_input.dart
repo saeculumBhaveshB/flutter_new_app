@@ -21,7 +21,7 @@ class PhoneInput extends StatefulWidget {
 
 class _PhoneInputState extends State<PhoneInput> {
   bool active = false;
-  final smartAuth = SmartAuth.instance;
+  final smartAuth = SmartAuth();
   bool hintOpen = false;
   void open() {
     if (hintOpen) return;
